@@ -14,7 +14,7 @@ A simple console-based **Hospital Management System** built using C++. This prog
 
 ---
 
-## 🛠 How to Run
+## 🛠 How to Run in windows
 
 ### 💾 Save as:
 `hospital.cpp`
@@ -22,3 +22,36 @@ A simple console-based **Hospital Management System** built using C++. This prog
 ### 🧱 Compile using:
 ```bash
 g++ hospital.cpp -o hospital
+
+---
+
+---
+
+## 🛠 How to Run in Linux/Mac with Qt GUI
+
+### 🧱 Install Qt:
+`sudo apt install qt5-default`
+
+### ⚙️  Compile & Run:
+```qmake -project
+qmake
+make
+./Hospital_Management_Qt
+
+---
+
+
+### 🙏 Support the Project
+
+If you love this project, consider supporting its development ❤️
+
+> **UPI:** `gamobhai2@ybl`  
+> **Binance ID:** `783008968`
+
+| Coin | Address |
+|------|---------|
+| **USDT (TRC-20)** | `TXKPBgR9d5xq5KpAyd2maPVQuEEDZ9DgiQ` |
+| **BTC**           | `1JeBUw4bjL9tuKrHwKKk4dx3mPy1jxys8j` |
+| **LTC**           | `LPUR2CE5SfArfYRJWkdtqhGz3t17Rijz2d` |
+
+---
