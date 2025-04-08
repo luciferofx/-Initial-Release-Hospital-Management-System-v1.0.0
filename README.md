@@ -22,7 +22,7 @@ A simple console-based **Hospital Management System** built using C++. This prog
 ### 🧱 Compile using:
 ```bash
 g++ hospital.cpp -o hospital
-
+```
 ---
 
 ---
@@ -37,7 +37,7 @@ g++ hospital.cpp -o hospital
 qmake
 make
 ./Hospital_Management_Qt
-
+```
 ---
 
 
